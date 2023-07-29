@@ -30,7 +30,21 @@ Image 1. Pipeline Architecture
 - Warehouse: BigQuery
 - Data Visualization: Looker
 
+## What should you install on your desktop ?
+
+Docker Engine & Docker Compose : https://docs.docker.com/engine/install/ 
+
 ## Batch Processing
+
+##### Enter the directory project
+
+##### Open your docker desktop
+
+##### Create image and build environment with Docker Compose
+```bash
+docker-compose up
+```
+####
 
 ## Streaming Processing
 
