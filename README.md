@@ -36,15 +36,29 @@ Docker Engine & Docker Compose : https://docs.docker.com/engine/install/
 
 ## Batch Processing
 
+##### Clone the repository
+```bash
+git clone https://github.com/graceyudhaaa/final-project-fraud-transaction-pipeline.git
+```
+
 ##### Enter the directory project
 
-##### Open your docker desktop
+```bash
+cd final-project-fraud-transaction-pipeline
+```
+
+##### Run your docker Engine & docker compose
 
 ##### Create image and build environment with Docker Compose
 ```bash
 docker-compose up
 ```
-####
+#### Open Airflow with username and password "airflow" to run the DAG
+# add supporting images please 
+<a> href:"https://drive.google.com/drive/folders/1_Khyn06a98nQ7tCEf0u3S24VEVU8ER5E?hl=id" </a>
+
+#### Open Spark to monitor Spark master and Spark workers
+# add supporting images please 
 
 ## Streaming Processing
 
